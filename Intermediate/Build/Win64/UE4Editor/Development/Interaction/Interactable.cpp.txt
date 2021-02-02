@@ -1,0 +1,3 @@
+D:\Projects\Interaction\Intermediate\Build\Win64\UE4Editor\Development\Interaction\Definitions.Interaction.h
+D:\Projects\Interaction\Source\Interaction\Interactable.h
+D:\Projects\Interaction\Intermediate\Build\Win64\UE4Editor\Inc\Interaction\Interactable.generated.h

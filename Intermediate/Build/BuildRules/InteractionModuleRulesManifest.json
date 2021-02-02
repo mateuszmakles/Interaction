@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Interaction\\Source\\Interaction\\Interaction.Build.cs",
+		"D:\\Projects\\Interaction\\Source\\Interaction.Target.cs",
+		"D:\\Projects\\Interaction\\Source\\InteractionEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

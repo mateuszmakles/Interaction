@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Interaction",
+			"Path": "D:\\Projects\\Interaction\\Source\\Interaction.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InteractionEditor",
+			"Path": "D:\\Projects\\Interaction\\Source\\InteractionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

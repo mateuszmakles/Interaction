@@ -1,0 +1,15 @@
+D:\Projects\Interaction\Intermediate\Build\Win64\UE4Editor\Development\Interaction\Definitions.Interaction.h
+D:\Projects\Interaction\Source\Interaction\InteractableLight.h
+D:\Projects\Interaction\Source\Interaction\Interactable.h
+D:\Projects\Interaction\Intermediate\Build\Win64\UE4Editor\Inc\Interaction\Interactable.generated.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SpotLightComponent.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/PointLightComponent.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponentBase.generated.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponent.generated.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalLightComponent.generated.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PointLightComponent.generated.h
+D:\Gry\Gry\Toxic\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpotLightComponent.generated.h
+D:\Projects\Interaction\Intermediate\Build\Win64\UE4Editor\Inc\Interaction\InteractableLight.generated.h

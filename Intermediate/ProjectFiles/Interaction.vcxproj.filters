@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Interaction.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0C65328D-3C51-4A53-93DF-645C28979D51}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Interaction.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\InteractionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{10223FF4-EE41-4B4B-BF39-70F0F2A207E3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Interaction">
+      <UniqueIdentifier>{0EF4D047-13DA-43BA-8B78-49679A8D9466}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Interaction\Interactable.cpp">
+      <Filter>Source\Interaction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interaction\Interactable.h">
+      <Filter>Source\Interaction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Interaction\InteractableLight.cpp">
+      <Filter>Source\Interaction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interaction\InteractableLight.h">
+      <Filter>Source\Interaction</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Interaction\Interaction.Build.cs">
+      <Filter>Source\Interaction</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Interaction\Interaction.cpp">
+      <Filter>Source\Interaction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interaction\Interaction.h">
+      <Filter>Source\Interaction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Interaction\InteractionCharacter.cpp">
+      <Filter>Source\Interaction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interaction\InteractionCharacter.h">
+      <Filter>Source\Interaction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Interaction\InteractionComponent.cpp">
+      <Filter>Source\Interaction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interaction\InteractionComponent.h">
+      <Filter>Source\Interaction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Interaction\InteractionGameMode.cpp">
+      <Filter>Source\Interaction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interaction\InteractionGameMode.h">
+      <Filter>Source\Interaction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Interaction\InteractionHUD.cpp">
+      <Filter>Source\Interaction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interaction\InteractionHUD.h">
+      <Filter>Source\Interaction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Interaction\InteractionProjectile.cpp">
+      <Filter>Source\Interaction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Interaction\InteractionProjectile.h">
+      <Filter>Source\Interaction</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
